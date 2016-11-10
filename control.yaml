@@ -1,0 +1,8 @@
+bridges:
+    - type: "skeleton"
+      label: "SOURCE"
+      source_id": "skel-1"
+      targets:
+        - type: "skeleton"
+          label: "TARGET"
+          target_id: "skel-2"
