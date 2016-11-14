@@ -37,7 +37,7 @@ See https://github.com/dpa-newslab/livebridge for more infos.
       author='dpa-infocom GmbH',
       maintainer='Martin Borho',
       maintainer_email='martin@borho.net',
-      url='https://github.com/dpa-newslab/livebridge-scribblelive',
+      url='https://github.com/dpa-newslab/livebridge-plugin-skeleton',
       license='Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)',
       packages=find_packages(exclude=['tests', 'htmlcov']),
       include_package_data=True,
